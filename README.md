@@ -9,7 +9,7 @@ Terrorism in world by various groups have killed many over the years and have ta
 5. Successful attacks on each Region (Middle East/North America,South Asia,South America, etc...).
 6. Showing number of attacks using Bubble Map
 
- ## To check out image file of few Dashboards
- > Click: [Main Dashboard](https://github.com/pk-iitdhn/Terrorism/blob/main/Main.jpg)
- > Click: [Attacks by Region](https://github.com/pk-iitdhn/Terrorism/blob/main/Attacks%20by%20Region.jpg)
- > Click: [Bubble Mapping of Attacks](https://github.com/pk-iitdhn/Terrorism/blob/main/Map-bubble.jpg) 
+## To check out image file of few Dashboards
+> Click: [Main Dashboard](https://github.com/pk-iitdhn/Terrorism/blob/main/Main.jpg)
+> Click: [Attacks by Region](https://github.com/pk-iitdhn/Terrorism/blob/main/Attacks%20by%20Region.jpg)
+> Click: [Bubble Mapping of Attacks](https://github.com/pk-iitdhn/Terrorism/blob/main/Map-bubble.jpg) 
